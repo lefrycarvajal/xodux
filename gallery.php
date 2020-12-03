@@ -11,7 +11,7 @@ include_once("header.php")
 				<div class="fullwidth-block gallery">
 					<div class="container">
 						<div class="content fullwidth">
-							<h1 class="entry-title" align:center>GALERIA</h1>
+							<h1 class="entry-title" align:center>EQUIPO</h1>
 							<div class="filterable-items">
 								<div class="filterable-item concert">
 									<a href="img/g1.jpg"><figure><img src="img/g1.jpg" alt="gallery 1"></figure></a>
