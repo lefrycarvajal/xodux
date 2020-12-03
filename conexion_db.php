@@ -1,5 +1,5 @@
 <?php
 
-$conex = mysqli_connect("mysql://b41876607bfdde:033ffd11@us-cdbr-east-02.cleardb.com/heroku_08b07b505008bb1?reconnect=true","b41876607bfdde","033ffd11","heroku_08b07b505008bb1");
+$conex = mysqli_connect("de1tmi3t63foh7fa.cbetxkdyhwsb.us-east-1.rds.amazonaws.com","	jred5er2psrkjr23","j1o3j26i6f61j5rc","c6xbi7t118np5pey");
 
 ?>
